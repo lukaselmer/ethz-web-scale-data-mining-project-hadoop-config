@@ -18,6 +18,10 @@
 
 <configuration>
     <property>
+        <name>mapreduce.reduce.shuffle.input.buffer.percent</name>
+        <value>0.1</value>
+    </property>
+    <property>
         <name>mapreduce.framework.name</name>
         <value>yarn</value>
     </property>
