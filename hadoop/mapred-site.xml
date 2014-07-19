@@ -19,7 +19,7 @@
 <configuration>
     <property>
         <name>mapreduce.reduce.shuffle.input.buffer.percent</name>
-        <value>0.1</value>
+        <value>0.0</value>
     </property>
     <property>
         <name>mapreduce.framework.name</name>
