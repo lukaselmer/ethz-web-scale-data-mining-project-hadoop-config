@@ -1,4 +1,4 @@
-# ETH Zurich - Web Scale Data Mining Project - Hadoop Config
+# ETH Zurich - Web Scale Data Processing and Mining Project - Hadoop Config
 
 The Hadoop config used for this project.
 
